@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi, welcome to my world. I am a freelance AI researcher and I am working in Natural Language Processing. I also know a bit about image processing and signal processing. I like to challenge myself and explore new technological challenges. I'm a boring man. (I heard someone say that I'm not boring at all.)
 
-News and Updates
+News and Updates!!!
 ======
 ## 2025
 - 15/08/2025: I officially concluded my nearly 5-year journey with the mission of "Vietnamese Technology for a Vietnamese Future" at VinBigData. Farewell, VinBigData.
