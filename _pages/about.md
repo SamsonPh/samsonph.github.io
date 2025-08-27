@@ -11,6 +11,11 @@ Hi, welcome to my world. I am a freelance AI researcher and I am working in Natu
 
 News and Updates
 ======
+## 2025
+- 15/08/2025: I officially concluded my nearly 5-year journey with the mission of "Vietnamese Technology for a Vietnamese Future" at VinBigData. Farewell, VinBigData.
+- 08/08/2025: Alongside my team and colleagues at VinBigData, we successfully integrated and demonstrated a specialized language and interaction model for two humanoid robots: Vin-Kong (by VinRobotics) and VinMotion Motion One (by VinMotion). These two new entities within Vingroup are dedicated to humanoid robotics and are poised to become a highlight in the development of intelligent humanoid robots in Vietnam.
+- 01/01/2025: I transitioned from my role in the Natural Language Processing department to build and lead my own team in the field of Physical AI. Our focus is on developing Human-Machine Interaction (HRI) and Visual Language Action models (VLA) for intelligent humanoid robots. I believe this will be the next frontier in artificial intelligence and modern human-robot interaction.
+
 ## 2024
 - 22/12/2024: I conducted a collaborative class with NTI-VietAI on the topic "Advancing Intelligent Systems with Language Models: Automotive, Robotics, and Beyond." The session offered fresh perspectives on the applications of LLM in emerging industries such as electric vehicles and robotics.
 - 22/10/2024: My team and I co-developed and released the LLaMA-Frog model. This model, based on LLaMA3-3B, is optimized for deployment on mobile environments while achieving accuracy comparable to or exceeding ChatGPT and Gemini on various tasks.

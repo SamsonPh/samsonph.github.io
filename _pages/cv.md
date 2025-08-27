@@ -11,7 +11,7 @@ redirect_from:
 
 Summary
 ======
-I have nearly 7 years of experience in the AI field, including 5 years specializing in natural language processing (NLP) for the Vietnamese language. I am adept at solving NLP problems at both low and high levels, utilizing traditional machine learning techniques as well as deep learning approaches. I have developed and deployed numerous ultra-compact models suitable for edge integration, as well as large-scale models requiring interaction with extensive, distributed infrastructures, such as large language models.
+I have nearly 8 years of experience in the AI field, including 6 years specializing in natural language processing (NLP) for the Vietnamese language. I am adept at solving NLP problems at both low and high levels, utilizing traditional machine learning techniques as well as deep learning approaches. I have developed and deployed numerous ultra-compact models suitable for edge integration, as well as large-scale models requiring interaction with extensive, distributed infrastructures, such as large language models.
 
 Additionally, I have experience working on projects involving computer vision and signal processing. My cross-disciplinary project background enables me to apply knowledge across various domains, particularly in multi-modal applications.
 
@@ -26,9 +26,10 @@ Education
 
 Work experience
 ======
-*  May 2021 - Present: [Vingroup Big Data Institute](https://vinbigdata.org/)
+*  May 2021 - August 2025: [Vingroup Big Data Institute](https://vinbigdata.org/)
     * Natural Language Processing Specialist
     * Lead of the Language Representation Team
+    + Lead Physical AI team (AI for robotics)
     * Main responsibilities:
       * Working on Vietnamese virtual assistant project for VinFast cars
       * Development of the VinBase chatbot platform
@@ -62,6 +63,8 @@ Skills
 
 Projects
 ======
++ Multi-modal LLM - Visual Language Action for general robot control (low-level control in Unitree G1 and Google robot simulation)
++ Vietnamese Speech2Speech Model for Human-Robot Interaction (speech and command fusion)
 + Vietnamese large language model - ViGPT, VBD-Buffalo, LLaMA3-Frog,...
 + Large multi-modal model - VLM, VVLM (V-LLaVA, V-LLASM,...)
 + Multi-modal retrieval (image - textual), Visual-docs retrieval
